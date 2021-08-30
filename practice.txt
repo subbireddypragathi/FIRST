@@ -7,5 +7,7 @@ learning
 god
 good name
 
+salary
+pf
 
 Thank u
